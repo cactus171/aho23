@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "aho23.data.unityweb",
+"asmCodeUrl": "aho23.asm.code.unityweb",
+"asmMemoryUrl": "aho23.asm.memory.unityweb",
+"asmFrameworkUrl": "aho23.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
